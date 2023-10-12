@@ -1,0 +1,96 @@
+@font-face {
+    font-family: nunito;
+    src: url();
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    
+}
+.navbar{
+
+
+    width: 100%;
+    background-color: rgb(34, 47, 63);}
+
+.navbar .logo1{
+    
+    width: 200px;
+    height: 100px;
+    display: flex;
+
+
+    
+   
+    
+
+}
+
+.navbar{
+    display: flex;
+    
+    justify-content:space-between;
+    align-items: end;
+    font-size: 25px;
+    padding: 20px;
+
+}
+.navbar li a {
+        color: white;
+}
+header{
+}
+
+.traitrouge{
+    width: 100%;
+    height: 5px;
+    background-color: brown;
+    margin: ;
+}
+.banner{
+    margin: 100px;
+    padding: auto;
+    background-image: url(assets/img/banner.jpeg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+body{
+
+font-family:nunito ;
+
+
+}
+.title{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space space-around;
+    align-items: center;
+}
+#matiere{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.matiere{
+
+}
+
+#ressources{
+    height: 100%;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+
+}
+
+
